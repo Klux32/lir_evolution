@@ -55,7 +55,7 @@
 						<span class="sep"> | </span>
 						<?php 
 							/* translators: 1: theme name, 2: theme developer */
-							printf( esc_html__( 'WordPress Theme: %1$s by %2$s.', 'freddo' ), '<a target="_blank" href="https://crestaproject.com/downloads/freddo/" rel="noopener noreferrer" title="Freddo Theme">Freddo</a>', 'CrestaProject' );
+							printf( esc_html__( 'Developer: %1$s  %2$s.', 'Luka' ), '<a target="_blank" href="https://crestaproject.com/downloads/freddo/" rel="noopener noreferrer" title="Luka Vasić">Luka Vasić</a>', '' );
 						?>
 					</div><!-- .site-info -->
 					<div class="site-social">
